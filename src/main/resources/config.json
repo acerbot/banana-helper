@@ -7,7 +7,7 @@
   "danmuPriority": 0,
   "danmuPool": [],
   "isShare": 1,
-  "bananaPriority": 0,
-  "followUpPriority": [],
+  "bananaPriority": 1,
+  "followUpPriority": [1405673, 12861355, 6536080, 1597840, 23512715, 12610197, 12495544],
   "userAgent": "AcFun/6.39.0 (iPhone; iOS 14.3; Scale/2.00)"
 }
